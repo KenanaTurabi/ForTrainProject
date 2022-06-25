@@ -1,2 +1,2 @@
-# ForTrainProject
+# IEEE_TrainigProject
 GitHub
