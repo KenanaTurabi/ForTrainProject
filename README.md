@@ -1,2 +1,2 @@
-# IEEE_TrainigProject
-GitHub
+# IEEE-TrainigProject
+GitHub-totorial
